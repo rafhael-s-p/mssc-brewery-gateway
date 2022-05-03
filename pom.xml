@@ -10,7 +10,7 @@
     <groupId>io.github.rafhael-s-p</groupId>
     <artifactId>mssc-brewery-gateway</artifactId>
 
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>mssc-brewery-gateway</name>
     <description>Brewery Gateway</description>
 
@@ -197,7 +197,7 @@
         <connection>scm:git:git@github.com:rafhael-s-p/mssc-brewery-gateway.git</connection>
         <developerConnection>scm:git:git@github.com:rafhael-s-p/mssc-brewery-gateway.git</developerConnection>
         <url>https://github.com/rafhael-s-p/mssc-brewery-gateway</url>
-        <tag>HEAD</tag>
+        <tag>1.0.0</tag>
     </scm>
 
     <distributionManagement>
